@@ -1,0 +1,9 @@
+API_ID = 10953300
+API_HASH = "9c24426e5d6fa1d441913e3906627f87"
+PHONE_NUMBER = "+998910087719" 
+DEVICE_MODEL = "satomoru"
+SYSTEM_VERSION = "Android 10.0" 
+CHANNELS_COPY = "@termux_community_uz"
+CHANNEL_PASTE = "@termux_devs"
+AUTO_DELETE_LINKS = 'https:/t.me/wh_py'
+FORWARDS = None 
